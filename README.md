@@ -67,22 +67,6 @@ Acesse: [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 📂 Estrutura do projeto (resumo)
-
-```
-app-todo/
-├── public/
-├── src/
-│   ├── components/
-│   ├── views/
-│   └── ...
-├── database.json
-├── README.md
-└── ...
-```
-
----
-
 ## 🧾 Scripts disponíveis
 
 | Comando              | Ação                                |
